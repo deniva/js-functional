@@ -1,0 +1,15 @@
+{
+  "name": "js-functional",
+  "scripts": {
+    "test": "qunit"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "ramda": "^0.27.1"
+  },
+  "devDependencies": {
+    "qunit": "^2.17.2",
+    "sinon": "^12.0.1",
+    "sinon-qunit": "^2.0.0"
+  }
+}
