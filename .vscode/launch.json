@@ -9,7 +9,14 @@
       "program": "${workspaceFolder}/src/main.js",
       "request": "launch",
       "skipFiles": ["<node_internals>/**"],
-      "type": "pwa-node"
+      "type": "node"
+    },
+    {
+      "name": "average",
+      "program": "${workspaceFolder}/src/average.js",
+      "request": "launch",
+      "skipFiles": ["<node_internals>/**"],
+      "type": "node"
     },
     {
       "type": "node",
